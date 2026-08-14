@@ -131,7 +131,7 @@ curl -s -b cookies.txt http://62.173.140.174:16098/admin
   <p>Welcome, <b>admin</b></p>
   <div class="flag-box">
     <h2>Flag</h2>
-    <pre>CODEBY{ldap_inj3ction_successful}</pre>
+    <pre>CODEBY{......}</pre>
   </div>
 </div>
 ```
